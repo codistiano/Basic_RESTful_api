@@ -1,0 +1,2 @@
+# Basic RESTful API
+This is a basic RESTful API created using JavaScript and Node.js. It has endpoints for creating, reading, and deleting users. It uses Express.js as the web framework and dummy data is stored in an array.
